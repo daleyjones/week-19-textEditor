@@ -36,7 +36,7 @@ To get started with this project, follow these steps:
 Clone this repository to your local machine.
 
 
-git clone https://github.com/daleyjones/week-19-pwa-text-editor.git
+git clone https://github.com/daleyjones/week-19-textEditor.git
 Install the necessary dependencies.
 
 
